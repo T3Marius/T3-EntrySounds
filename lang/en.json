@@ -1,0 +1,18 @@
+﻿{
+  "empty": "⇊ Menu ⇊",
+  "prefix": "{orange}【 {darkblue}Entry Sounds{orange} 】{default}",
+  "mainmenu<title>": "〔 Entry Sounds 〕",
+  "volumemenu<title>": "〔 Volume Settings - <font color='yellow'>{0}%</font> 〕",
+  "option<changevolume>": "Change Volume",
+  "suboption<mutesounds>": "Mute Sounds",
+  "option<disablejoinmsg>": "Disable Join Message",
+
+  "line": "==========================================",
+
+  "empty1": "⇊ Chat Message ⇊",
+  "mutesounds<enabled>": "Entry sounds {red}muted{default}.",
+  "mutesounds<disabled>": "Entry sounds {olive}unmuted{default}.",
+  "volume<selected>": "Volume set to {red}{0}{default}.",
+  "joinmessage<disabled>": "Join messages have been {red}disabled{default}.",
+  "joinmessage<enabled>": "Join messages have been {olive}enabled{default}."
+}
