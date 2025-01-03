@@ -39,4 +39,4 @@ Custom Entry Sounds and Join Messages with Modifiable Volume for CS2.
 
 - In config file you will only need to put the path with th 100_volume since my code it will automaticly replace the 100 based on player selected volume.
 
-Many greetings to @oqyh for creating the VolumeAdjuster app.
+Many greetings to [**@oqyh**](https://github.com/oqyh) for creating the VolumeAdjuster app.
