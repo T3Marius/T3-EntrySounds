@@ -5,6 +5,7 @@ Custom Entry Sounds and Join Messages with Modifiable Volume for CS2.
 - [**CounterStrikeSharp**](https://github.com/roflmuffin/CounterStrikeSharp)
 - [**T3Menu-API**](https://github.com/T3Marius/T3Menu-API)
 - [**VolumeAdjuster**](https://github.com/oqyh/Volume-Adjuster-GoldKingZ)
+- [**MultiAddonManager**](https://github.com/Source2ZE/MultiAddonManager)
 
 # Conifg:
 
